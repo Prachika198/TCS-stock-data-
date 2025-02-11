@@ -4,4 +4,6 @@
 
 #  Analyzing the historical data of TCS stock to gain insights into stock behavior, identifying trends, and forecast future stock prices.
 
+# Tools used - Machine learning, Python, SQL, Excel, Jupyter notebook
+
 
